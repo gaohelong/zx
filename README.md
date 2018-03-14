@@ -76,3 +76,9 @@
 [铺砖-1](http://m.jia.com/zixun/article/548399.html)<br>
 [改水、改电-1](http://m.jia.com/zixun/article/507621.html) [改水、改电-2](http://m.jia.com/zixun/article/509374.html)<br>
 [刷墙-1](http://m.jia.com/zixun/article/491518.html) [刷墙-2](http://m.jia.com/zixun/article/502011.html)
+
+
+### 电器、家具
+```css
+地面的电器、家具底座垫上保护垫防止划坏地板.
+```
